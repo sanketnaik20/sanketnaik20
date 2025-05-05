@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdd8097d-d7a5-44eb-91a9-bf1921b16604)## Hi there 👋
+## Hi there 👋
 
 I'm **Sanket Naik**, an enthusiastic and dedicated techie from Goa, India 🇮🇳
 
