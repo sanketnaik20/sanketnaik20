@@ -44,7 +44,7 @@ currently_learning: ["Docker", "Kubernetes", "AWS Cloud", "React Native"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Google_Gemini_logo.svg" alt="google gemini" width="45" height="45"/>
+
 </p>
 
 
